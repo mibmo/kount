@@ -2,7 +2,9 @@
 name = "kount"
 version = "0.1.0"
 edition = "2018"
-license = "mpl-2.0"
+license = "MPL-2.0"
+description = "A global input counter built for streaming software"
+repository = "https://github.com/mibmo/kount"
 
 [dependencies]
 futures = "0.3.16"
