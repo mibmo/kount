@@ -69,6 +69,7 @@ Most streaming software has the ability to embed and live-reload text files.
 There are files corresponding to all fields, updating live.
 Reference available in the [file API section](#api-file).
 
+<!--
 #### OBS (and its forks, such as [StreamLabs OBS][obs streamlabs])
 [OBS][obs]
 
@@ -76,6 +77,7 @@ Reference available in the [file API section](#api-file).
 [XSplit][xsplit]
 
 ---
+-->
 
 If the streaming software you use isn't listed here, consider opening an [issue][issues] or starting a topic in [discussions][discussions] about it.
 It's very likely that __Kount__ can still work with the software.
